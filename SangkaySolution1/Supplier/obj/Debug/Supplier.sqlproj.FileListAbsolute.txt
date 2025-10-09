@@ -1,0 +1,10 @@
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Supplier.dacpac
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Supplier.dll
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Supplier.pdb
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Supplier.sqlproj.AssemblyReference.cache
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Model.xml
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\refactor.xml
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\postdeploy.sql
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\predeploy.sql
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Supplier.dll
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Supplier.pdb

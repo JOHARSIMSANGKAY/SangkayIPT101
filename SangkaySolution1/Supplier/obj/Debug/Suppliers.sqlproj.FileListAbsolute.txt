@@ -1,0 +1,6 @@
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Suppliers.dacpac
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Supplier.dll
+D:\Nalab\SangkaySolution1\Supplier\bin\Debug\Supplier.pdb
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Suppliers.sqlproj.AssemblyReference.cache
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Supplier.dll
+D:\Nalab\SangkaySolution1\Supplier\obj\Debug\Supplier.pdb

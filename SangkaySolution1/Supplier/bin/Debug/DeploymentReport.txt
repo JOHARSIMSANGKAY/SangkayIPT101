@@ -1,0 +1,24 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[Supplier]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Supplier].[SupplerName] is being dropped, data loss could occur.
+       The type for column SupplierId in table [dbo].[Supplier] is currently  NCHAR (10) NOT NULL but is being changed to  INT
+         NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT
+         NOT NULL.
+
+** User actions
+     Recreate table
+       [dbo].[Supplier] (Table)
+
+** Supporting actions
+
+The column [dbo].[Supplier].[SupplerName] is being dropped, data loss could occur.
+The type for column SupplierId in table [dbo].[Supplier] is currently  NCHAR (10) NOT NULL but is being changed to  INT NOT NULL. Data loss could occur and deployment may fail if the column contains data that is incompatible with type  INT NOT NULL.
+If this deployment is executed, changes to [dbo].[Supplier] might introduce run-time errors in [dbo].[Create].
+If this deployment is executed, changes to [dbo].[Supplier] might introduce run-time errors in [dbo].[Delete].
+
