@@ -11,6 +11,11 @@ Post-Deployment Script Template
 */
 --use Suppliers
 --go 
+ --EXEC SelectSuppliers
 --select * From Supplier
---exec SelectSuppliers 111
+
+--exec SelectSuppliers
+--INSERT INTO Supplier ([SuppliersId], [SuppliersName], [ContactNumber], [Email], [Product])
+--VALUES (116, N'joharsim', N'092536253', N'pogi', N'redhorse')
+--SELECT * FROM Suppliers
 

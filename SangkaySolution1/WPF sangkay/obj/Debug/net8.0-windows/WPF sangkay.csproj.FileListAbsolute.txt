@@ -1,0 +1,19 @@
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\bin\Debug\net8.0-windows\WPF sangkay.exe
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\bin\Debug\net8.0-windows\WPF sangkay.deps.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\bin\Debug\net8.0-windows\WPF sangkay.runtimeconfig.json
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\bin\Debug\net8.0-windows\WPF sangkay.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\bin\Debug\net8.0-windows\WPF sangkay.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay_MarkupCompile.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.g.resources
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\refint\WPF sangkay.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\WPF sangkay.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\SangkaySolution1\WPF sangkay\obj\Debug\net8.0-windows\ref\WPF sangkay.dll

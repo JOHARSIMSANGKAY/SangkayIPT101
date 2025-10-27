@@ -55,6 +55,8 @@ Post-Deployment Script Template
 --go 
 --select * From Supplier
 --exec SelectSuppliers 111
+EXEC SelectSuppliers
+SELECT * FROM Suppliers
 
 GO
 
